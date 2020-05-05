@@ -1,27 +1,11 @@
-# Repository Description
-These are a series of projects to help you learng SASS(SCSS), BrowserSync, GULP, GitHub Pages, and web templates 
-with partial html files.  When you complete this project, you will be able to build your portfolios website.
-## Assignments
-* [Assignment 1 Here](BootStrapBrowserSyncGulp-Homework.pdf)
-* [Assignment 2 Here](BootstrapIntroduction.pdf)
+# HW 2
+Bootstrap HW # 2
+## Links
+* [Running Project](https://aae43.github.io/BootstrapHW2/)
+* [Repository Link](https://github.com/aae43/BootstrapHW2)
 
-#  Videos
-* [Video 1 - Introduction Project Setup](https://youtu.be/rusniDSzXGs)
-* [Video 2 - Boootstrap Tables and Layout](https://youtu.be/5vVfAyUgjg0)
-* [Video 3 - Boootstrap Carousel of Z-Layout](https://youtu.be/uoNYzWw5_Js)
-* [Video 4 - Bootstrap Bottom of Z-Layout](https://youtu.be/hOZb45fZYyE)
-
-
-# Prerequisites
-1. Install Node.js
-2. Read the Gulp article to explain how to install Gulp globally i.e. npm install -g npm install gulp-cli -g on windows or sudo install -g npm install gulp-cli -g on mac
-
-# Install Instructions
-1.  Clone the repository in WebStorm
-2.  Run npm install to install the dependencies
-3.  Add a run configuration for "Gulp" and put in "serve" as an argument
-
-![WebStorm Gulp Config](screenshots/gulp.png)
+#  Gulp
+![HW 2 Screenshot](screenshots/Gulpp.png)
 
 # Readings
 * [What is Bootstrap?](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/)
